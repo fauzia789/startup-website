@@ -1,0 +1,95 @@
+header{
+    text-align: center;
+  color:darkblue;
+  font-size: larger;
+
+
+}
+label{
+    display: block;
+ margin-bottom: 10px;
+ margin-left: 50px;
+ 
+ font-size: x-large;
+}
+.body1{
+
+  margin-left: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100vh ;
+
+}
+.body2{
+
+  margin-left: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+td,th{
+  border: 5px solid darkslategray;
+  padding: 10px;
+}
+table{
+  border-collapse: collapse;
+ margin-left: 600px;
+
+margin-top: 40px;
+
+}
+nav >ul {
+  display: flex;
+
+  
+}
+nav li{
+  list-style: none;
+  padding-left: 20px;
+}
+
+nav li >a{
+  text-decoration: none;
+
+  color: black;
+}
+nav li :hover{
+  background-color: lightslategrey;
+}
+
+nav li .dropdown{
+  display: none;
+  position: absolute;
+ padding: 20px 30px;
+}
+nav li:hover .dropdown{
+  display: block;
+  padding-left: 20px;
+  margin-right: 20px;
+}
+.nav{
+ 
+margin-left: 1200px;
+
+ 
+}
+.head2{
+ text-align: left;
+color: brown;
+font-weight: lighter;
+}
+.art{
+  background-color: lightseagreen;
+}
+.foot{
+  text-align: center;
+  color: darkslateblue;
+}
+
+
+
+
+
+
